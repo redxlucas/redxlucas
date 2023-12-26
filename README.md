@@ -1,9 +1,22 @@
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redxlucas&layout=compact&langs_count=7&theme=jolly"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=redxlucas&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Azevedo;I'm+19+years+old;I'm+from+Brazil;I'm+a+Software+Developer+Student;Be+Welcome!+:%29)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=redxlucas&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Azevedo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redxlucas&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/lucas-azevedo-ba3617263/)
+
 </div>
-<div>
-<a href = "mailto:lucassetem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-azevedo-ba3617263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
+### Studying in this moment:
+
+![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=000)
+[![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000)](https://docs.github.com/)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redxlucas&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b5b5b5&height=120&section=footer"/>
