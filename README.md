@@ -17,6 +17,6 @@
 [![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000)](https://docs.github.com/)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redxlucas&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b5b5b5&height=120&section=footer"/>
