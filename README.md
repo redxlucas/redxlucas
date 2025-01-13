@@ -15,8 +15,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000)](https://docs.github.com/)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redxlucas&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
